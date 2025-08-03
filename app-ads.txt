@@ -1,4 +1,3 @@
-facebook.com, 1040540696474108, DIRECT, c3e20eee3f780d68
 facebook.com, 306222470718718, DIRECT, c3e20eee3f780d68
 google.com, pub-2833231114648085, DIRECT, f08c47fec0942fa0
 contextweb.com, 563605, RESELLER, 89ff185a4c4e857c
