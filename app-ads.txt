@@ -304,7 +304,8 @@ pubnative.net, 1007974, RESELLER, d641df8625486a7b
 video.unrulymedia.com, 3634565696, RESELLER, 6f752381ad5ec0e5
 appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
-OWNERDOMAIN=[yourdomain.com]
+
+OWNERDOMAIN=appfocus.site
 ironsrc.com, [yourironSourcePublisherAccountID], Direct
 Remember to replace the OwnerDomain Line with your domain. 
 Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager
