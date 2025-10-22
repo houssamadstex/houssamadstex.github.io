@@ -1,4 +1,6 @@
 facebook.com, 306222470718718, DIRECT, c3e20eee3f780d68
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+appnexus.com, 17779, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
