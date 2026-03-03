@@ -1,4 +1,8 @@
 facebook.com, 306222470718718, DIRECT, c3e20eee3f780d68
+targetbetter.com, 82228, RESELLER
+programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
+media.net, 8CUH46N56, RESELLER
+triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 openx.com, 561446248, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
 adagio.io, 1522, RESELLER
