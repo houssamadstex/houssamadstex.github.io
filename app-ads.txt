@@ -1,6 +1,8 @@
 facebook.com, 306222470718718, DIRECT, c3e20eee3f780d68
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
 pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 bold-win.com, 1013, RESELLER, 71746737d0bab951
