@@ -1,4 +1,6 @@
-facebook.com, 306222470718718, DIRECT, c3e20eee3f780d68
+facebook.com, 306222470718718, DIRECT, c3e20eee3cc0674a
+facebook.com, 1376945762764395, DIRECT, c3e20eee3cc0674a
+facebook.com, 1040540696474108, DIRECT, c3e20eee3cc0674a
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 monetrix.ai, 10761, RESELLER
